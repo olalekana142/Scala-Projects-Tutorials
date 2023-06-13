@@ -1,2 +1,1 @@
-# Scala-Spark-projects
-Scala Spark projects
+Different Scala tutorials on functions, pattern matching, classes , traits with examples on how to use them.
